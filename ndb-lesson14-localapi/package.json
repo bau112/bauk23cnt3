@@ -1,0 +1,13 @@
+{
+  "name": "ndb-lesson14-localapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"json-server --watch dbs,jso -- 3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

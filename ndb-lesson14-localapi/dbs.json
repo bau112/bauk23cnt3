@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "fullName":"Nguyen Dinh Bau",
+            "age":20,
+            "class":"323CNT3"
+        },
+        {
+        "fullName":"Nguyen Van Anh",
+        "age":23,
+        "class":"323CNT2"
+        },
+        {
+         "fullName":"Dang Thi Ngoc",
+         "age":28,
+         "class":"323CNT2"
+         }
+    ],
+    "students":[
+        {
+            "studentId":"sv0001",
+            "studenName":"Nguyen Thi Hong"
+        }
+    ]
+}
